@@ -1,0 +1,14 @@
+{
+  "name": "nsi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "nsi": "index.js"
+  },
+  "repository": "https://github.com/enesusta/node-spring-initializer",
+  "author": "Enes Usta",
+  "license": "MIT",
+  "dependencies": {
+    "cross-spawn": "^7.0.3"
+  }
+}
